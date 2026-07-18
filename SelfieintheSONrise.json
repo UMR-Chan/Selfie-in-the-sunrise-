@@ -265,7 +265,7 @@
     "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
   },
   "background": {
-    "blur": 0,
+    "blur": 0,5,
     "url": "https://raw.githubusercontent.com/UMR-Chan/Selfie-in-the-sunrise-/refs/heads/main/Selfie%20Background.png",
     "alpha": 1
   }
