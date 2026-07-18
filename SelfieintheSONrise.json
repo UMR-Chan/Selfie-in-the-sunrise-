@@ -3,7 +3,7 @@
   "description": "TKM",
   "authors": [
     {
-      "name": "S.O.N"
+      "name": "UMR"
     }
   ],
   "semanticColors": {
@@ -27,8 +27,8 @@
     "BG_BASE_TERTIARY": [ "#181926", "#181926" ],
     "EMBED_BACKGROUND": [ "#363a4f", "#363a4f" ],
     "CARD_PRIMARY_BG": [ "#24273a", "#24273a" ],
-    "CARD_PRIMARY_PRESSED_BG": [ "#6e738d", "#6e738d"],
-    "CARD_SECONDARY_BG": [ "#181926" ],
+    "CARD_PRIMARY_PRESSED_BG": [ "#6e738d", "#6e738d" ],
+    "CARD_SECONDARY_BG": [ "#181926", "#181926" ],
     "CHANNEL_ICON": [ "#939ab7", "#939ab7" ],
     "CHANNELS_DEFAULT": [ "#a5adcb", "#a5adcb" ],
     "CHAT_BACKGROUND": [ "#24273a", "#363a4f" ],
@@ -143,7 +143,7 @@
     "ORANGE_345": "#f5a97f",
     "ORANGE_360": "#f5a97f",
     "ORANGE_400": "#f5a97f",
-    "ORANGE_430": "es#f5a97f",
+    "ORANGE_430": "#f5a97f",
     "ORANGE_460": "#f5a97f",
     "ORANGE_500": "#f5a97f",
     "ORANGE_530": "#f5a97f",
@@ -200,11 +200,11 @@
     "CHAT_MENTIONS_FOREGROUND_DARK": "#a6da95",
     "CHAT_MENTIONS_FOREGROUND_LIGHT": "#a6da95"
   },
-  "plus":{
-    "version":"0",
+  "plus": {
+    "version": "0",
     "customOverlays": true,
     "mentionLineColor": "#eed49f",
-    "icons":{
+    "icons": {
       "ic_close_24px": "#cad3f5",
       "ic_radio_circle_checked": "#a6da95",
       "ic_radio_circle_checked__overlay": "#cad3f5",
@@ -243,9 +243,7 @@
       "ic_nitro_rep_24px": "#939ab7"
     }
   },
-    "spec": 2
-}
-
+  "spec": 2,
   "fonts": {
     "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
     "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
@@ -270,3 +268,5 @@
     "blur": 0,
     "url": "https://raw.githubusercontent.com/UMR-Chan/Selfie-in-the-sunrise-/refs/heads/main/Selfie%20Background.png",
     "alpha": 1
+  }
+}
