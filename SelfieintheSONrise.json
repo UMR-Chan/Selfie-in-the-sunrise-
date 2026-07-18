@@ -3,7 +3,7 @@
   "description": "TKM",
   "authors": [
     {
-      "name": "UMR"
+      "name": "S.O.N"
     }
   ],
   "semanticColors": {
@@ -265,8 +265,8 @@
     "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
   },
   "background": {
-    "blur": 1, ,
+    "blur": 0,
     "url": "https://raw.githubusercontent.com/UMR-Chan/Selfie-in-the-sunrise-/refs/heads/main/Selfie%20Background.png",
-    "alpha": 0,67
+    "alpha": 0.65
   }
 }
